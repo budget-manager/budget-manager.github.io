@@ -89,7 +89,7 @@ If possible, every task needs to be reviewed by at least one other
  
  
  Jan Gevaert
- Jeremy Brown
+ Jeremy Brown :D
  Mercedes Garcia
 
     
