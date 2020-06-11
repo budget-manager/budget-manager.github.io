@@ -48,8 +48,8 @@
 >If the team is not able to resolve the conflict internally, outside 
 > assistance needs to be requested. This will depend on the nature 
 >of the conflict.
->    * technical issues: Nick, Todd, Rishita
->    * issues with collaboration: Sue, Estaban
+>    * Technical issues: Nick, Todd, Rishita
+>    * Issues with collaboration: Sue, Estaban
   
 
 ## Roles for every team member
