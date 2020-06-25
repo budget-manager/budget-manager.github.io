@@ -82,6 +82,13 @@ If possible, every task needs to be reviewed by at least one other
 >One person of the team will be in charge of committing and pushing to
 >GitHub. This can only happen after review by and agreement from other
 >team members.
+>
+>In case one of the team members encounters a serious issue while committing,
+>pushing, pulling or any other merge conflict, the code word is "CODE RED" that will
+>be sent to the other team members as well as the instructors through Slack and/or
+>SMS. In this case, no one is allowed to do any commits, pushes or pulls until the
+>issue is solved.
+>
 
  
  
