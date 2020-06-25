@@ -35,9 +35,8 @@ Budgets can be made for monthly recurring categories.
 
 
 
-## Entity Relationship Diagram
+## [Entity Relationship Diagram](docs/erd.md)
 
-[![ERD](img/entity-relationships.png)](pdf/entity-relationships.pdf)
 
 ## stretch goals
 
