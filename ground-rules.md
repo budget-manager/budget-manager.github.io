@@ -39,15 +39,15 @@
 ## Conflict resolution protocol
 
 > The power of speaking up while keeping the volume low
->
+
 >during conflicts,all team members need to remind themselves about the points made above
->in "Handling different situations".  
->In case a team member has a problem with how the team functions,
->he or she has the duty to speak up and needs to be heard and understood
->by the other team members.  
->If the team is not able to resolve the conflict internally, outside 
-> assistance needs to be requested. This will depend on the nature 
->of the conflict.
+in "Handling different situations".  
+In case a team member has a problem with how the team functions,
+he or she has the duty to speak up and needs to be heard and understood
+by the other team members.  
+If the team is not able to resolve the conflict internally, outside 
+assistance needs to be requested. This will depend on the nature 
+of the conflict.
 >    * Technical issues: Nick, Todd, Rishita
 >    * Issues with collaboration: Sue, Estaban
   
@@ -57,38 +57,38 @@
 >Know your strengths and your weaknesses
 
 >To be discussed once the technical side of 
->the project materializes.
->One idea would be to make a list of our own strengths and 
->weaknesses and then assign tasks towards our talents.
->for example:
+the project materializes.
+One idea would be to make a list of our own strengths and 
+weaknesses and then assign tasks towards our talents.
+for example:
 >    * Mercedes: creative, eye for detail
 >    * Jeremy: thinks out of the box, fast decision maker
 >    * Jan: organized, good with writing
 >
 >We can grade all the tasks with the skills that are needed and
->then assign them to the best matching team member.
->It is important though that not all tasks from the same scope of work
->per definition end up with the same person.
+then assign them to the best matching team member.
+It is important though that not all tasks from the same scope of work
+per definition end up with the same person.
 
 ## Closing protocol for tasks
 
 > Two pairs of eyes; work agreed by all
 
 >it is necessary that important tasks are reviewed and agreed upon
->before being closed.  
+before being closed.  
 If possible, every task needs to be reviewed by at least one other
->team member and communication is in place so that all team members
->can voice their agreement or veto before the task is pushed to GitHub.  
->One person of the team will be in charge of committing and pushing to
->GitHub. This can only happen after review by and agreement from other
->team members.
->
+team member and communication is in place so that all team members
+can voice their agreement or veto before the task is pushed to GitHub.  
+One person of the team will be in charge of committing and pushing to
+GitHub. This can only happen after review by and agreement from other
+team members.
+
 >In case one of the team members encounters a serious issue while committing,
->pushing, pulling or any other merge conflict, the code word is "CODE RED" that will
->be sent to the other team members as well as the instructors through Slack and/or
->SMS. In this case, no one is allowed to do any commits, pushes or pulls until the
->issue is solved.
->
+pushing, pulling or any other merge conflict, the code word is "CODE RED" that will
+be sent to the other team members as well as the instructors through Slack and/or
+SMS. In this case, no one is allowed to do any commits, pushes or pulls until the
+issue is solved.
+
 
  
  
