@@ -1,16 +1,30 @@
 ## Project description
 
+
 >Budget manager is an Android app that helps individuals manage and track their spending on a daily 
-or monthly base. 
-Users will assign their expenditures in different categories for bills, gas, groceries, dining out, 
-miscellaneous, personal spending, savings, and any other categories of their choosing. 
-Personal savings goals can also be created for any duration of time. 
-The user will enter all transactions made on a daily basis. 
+or monthly basis. 
+Users will assign their expenditures in different categories for monthly bills and expenses such as
+gas, groceries, dining out, miscellaneous, personal spending, savings, and any other categories of 
+their choosing for any duration of time. 
+Personal savings goals can also be created to establish better spending habits.
+The user will enter all transactions on a daily basis. 
 The due dates and any extra notes can be created for each bill for organizational purposes. 
 Budgets can be made for monthly recurring categories. 
 
+>To access the app the user must log in to his Google account and will be directed to the home 
+screen. This screen will display buttons directing you to three different fields: 
+  * budgets
+  * transactions
+  * saving goals
+>In _budget_ the user will see a dropdown menu with the predefined categories, and an option to
+create his own budget. 
+If _transactions_ is selected the user will be prompted to enter either positive or negative 
+transactions to record their spending habits.
+When accessing _saving goals_ the user will have a detailed overview of his current progress.
+
 
 ## Intended Users & user stories
+
 
    * **A single mom**
         > As a single mom with two teenagers, it is hard to balance our monthly budget. The Budget 
@@ -30,16 +44,15 @@ Budgets can be made for monthly recurring categories.
                                                   
 
 ## External services/sources
-
-
+   * Google sign in
+ 
 
 ## [Entity Relationship Diagram](docs/erd.md)
 
 
-## [Ground rules](ground-rules.md)
+## Stretch goals
 
+   * progress notifications
+   * banking API
+   * access to camera to track and store receipts 
 
-
-## stretch goals
-
-notifications and groups
