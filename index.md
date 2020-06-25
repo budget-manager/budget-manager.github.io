@@ -1,5 +1,3 @@
-# Budget Manager
-
 ## Project description
 
 >Budget manager is an Android app that helps individuals manage and track their spending on a daily 
