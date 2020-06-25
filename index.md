@@ -1,7 +1,8 @@
 ## Project description
 
 
->Budget manager is an Android app that helps individuals manage and track their spending on a daily 
+>Budget manager is a webservice accessed by a custom Android app that helps individuals manage and
+> track their spending on a daily 
 or monthly basis. 
 Users will assign their expenditures in different categories for monthly bills and expenses such as
 gas, groceries, dining out, miscellaneous, personal spending, savings, and any other categories of 
@@ -10,6 +11,9 @@ Personal savings goals can also be created to establish better spending habits.
 The user will enter all transactions on a daily basis. 
 The due dates and any extra notes can be created for each bill for organizational purposes. 
 Budgets can be made for monthly recurring categories. 
+
+>The webservice will support the functionalities of persistent storage, tracking of transactions 
+>versus budget and will take care of the automatic computation of transactions into budget.
 
 >To access the app the user must log in to his Google account and will be directed to the home 
 screen. This screen will display buttons directing you to three different fields: 
@@ -27,20 +31,16 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 
    * **A single mom**
-        > As a single mom with two teenagers, it is hard to balance our monthly budget. The Budget 
-          Manager app helps me to keep track of all my expenses and compares them with my set budget
-          goals in each category, so I can make sure to have some money left for the fun things
-          in life.
+        > As a single mom with two teenagers, I need to balance our monthly budget and keep track 
+          of all our expenses to make sure our needs are met until the end of the month.
     
    * **A graduate, starting his first job and who wants to live on his own**
-        > I just landed my first job and want to buy a house in two years. With this app I learn 
-          how to manage my spending and create a budget to save money each month for my down payment.
+        > As a recent grad, I just landed my first job and, I need to learn how to manage my 
+          spending and save money for a down payment, so I can buy a house in two years.
         
    * **A foreigner who just moved to the US**
-        > I just arrived in the States a couple of months ago, and the value of money is different 
-          from what I am used to. Thanks to Budget Manager I get a better grasp of what my 
-          expenses might look like at the end of the month and how I can manage all of this to work 
-          towards a balanced and healthy budget.
+        > As a new arrival in the United States, I need to learn how to compare my expenditures to
+          my budget in order to get a better grasp of the local currency and cost of living.
                                                   
 
 ## External services/sources
@@ -55,4 +55,5 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    * progress notifications
    * banking API
    * access to camera to track and store receipts 
+   * group based budgeting
 
