@@ -36,6 +36,10 @@ Budgets can be made for monthly recurring categories.
 ## [Entity Relationship Diagram](docs/erd.md)
 
 
+## [Ground rules](ground-rules.md)
+
+
+
 ## stretch goals
 
 notifications and groups
