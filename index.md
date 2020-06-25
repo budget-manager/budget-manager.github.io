@@ -29,7 +29,7 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    * **A single mom**
         > As a single mom with two teenagers, it is hard to balance our monthly budget. The Budget 
           Manager app helps me to keep track of all my expenses and compares them with my set budget
-          goals in each category so I can make sure to have some money left for the fun things
+          goals in each category, so I can make sure to have some money left for the fun things
           in life.
     
    * **A graduate, starting his first job and who wants to live on his own**
@@ -39,12 +39,12 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    * **A foreigner who just moved to the US**
         > I just arrived in the States a couple of months ago, and the value of money is different 
           from what I am used to. Thanks to Budget Manager I get a better grasp of what my 
-          expenses might look like and how I can manage all of this to work towards a balanced and
-          healthy budget.
+          expenses might look like at the end of the month and how I can manage all of this to work 
+          towards a balanced and healthy budget.
                                                   
 
 ## External services/sources
-   * Google sign in
+   * [Google sign in](https://developers.google.com/identity/sign-in/android/start-integrating)
  
 
 ## [Entity Relationship Diagram](docs/erd.md)
