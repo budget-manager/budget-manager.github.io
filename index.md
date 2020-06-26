@@ -45,6 +45,8 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 ## External services/sources
    * [Google sign in](https://developers.google.com/identity/sign-in/android/start-integrating)
+   >We will use Google sign in to the Android app and have the token passed on the web service for
+   authentication. 
  
 
 ## [Entity Relationship Diagram](docs/erd.md)
