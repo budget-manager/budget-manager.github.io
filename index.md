@@ -59,4 +59,11 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    * banking API
    * access to camera to track and store receipts 
    * group based budgeting
+   
+   
+## Team roster
+
+* Mercedes 
+* Jan
+* Jeremy
 
