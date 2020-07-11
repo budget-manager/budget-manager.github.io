@@ -1,4 +1,4 @@
-## Project description
+## [Project description](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
 
 
 >Budget manager is a webservice accessed by a custom Android app that helps individuals manage and
@@ -27,7 +27,7 @@ transactions to record their spending habits.
 When accessing _saving goals_ the user will have a detailed overview of his current progress.
 
 
-## Intended Users & user stories
+## [Intended Users & user stories](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
 
 
    * **A single mom**
@@ -49,11 +49,19 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    authentication. 
  
 
-## [Entity Relationship Diagram](docs/erd.md)
+## [Entity Relationship Diagram](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/entity-relationships.png)
 
 ## [Entity classes](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/model/entity)
 
-## Team roster
+## [Data Definition Language]()
+
+## [Repositories](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/service)
+
+## [REST controllers and application logic services]()
+
+## [Javadoc documentation]()
+
+## [Team roster](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
 
 * Mercedes 
 * Jan
