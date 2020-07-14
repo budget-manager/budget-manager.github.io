@@ -47,7 +47,7 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    * [Google sign in](https://developers.google.com/identity/sign-in/android/start-integrating)
    >We will use Google sign in to the Android app and have the token passed on the web service for
    authentication. 
- 
+
 
 ## [Entity Relationship Diagram](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/entity-relationships.png)
 
