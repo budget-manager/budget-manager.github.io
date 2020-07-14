@@ -59,7 +59,7 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 ## [Repositories](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/service)
 
-## [REST controllers and application logic services]()
+## [REST controllers and application logic services](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/controller)
 
 ## [Javadoc documentation]()
 
