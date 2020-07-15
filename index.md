@@ -51,7 +51,9 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 ## [Entity Relationship Diagram](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/entity-relationships.png)
 
-##[Wireframe](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/wireframe-budget-manager.png)
+## [Wireframe](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/wireframe-budget-manager.png)
+
+## [Wireframe](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/wireframe-budget-manager.png)
 
 ## [Entity classes](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/model/entity)
 
