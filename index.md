@@ -54,7 +54,7 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 >progress.
 
 
-## [Budget Manager PDF overview]()
+## [Budget Manager PDF overview](docs/pdf/budget-manager-android-app.pdf)
 
 ## Summary of current state of the project
 
@@ -69,7 +69,7 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    * group based budgeting
 
 
-## [Intended Users & user stories](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
+## Intended Users & user stories
 
 
    * **A single mom**
@@ -91,13 +91,13 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
    authentication. 
 
 
-## [Entity Relationship Diagram](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/entity-relationships.png)
+## [Entity Relationship Diagram](docs/erd.md)
 
-## [Wireframe](budget-manager.github.io/docs/image/wireframe-budget-manager.png)
+## [Wireframe](docs/wireframe.md)
 
 ## [Entity classes](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/model/entity)
 
-## [Data Definition Language](https://github.com/budget-manager/budget-manager-server/blob/master/docs/sql/ddl.sql)
+## [Data Definition Language](docs/ddl.md)
 
 ## [Repositories](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/service)
 
