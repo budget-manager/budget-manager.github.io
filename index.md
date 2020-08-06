@@ -51,17 +51,17 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 ## [Entity Relationship Diagram](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/entity-relationships.png)
 
-## [Wireframe](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/wireframe-budget-manager.png)
+##[Wireframe](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/wireframe-budget-manager.png)
 
 ## [Entity classes](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/model/entity)
 
-## [Data Definition Language](https://github.com/budget-manager/budget-manager-server/blob/master/docs/sql/ddl.sql)
+## [Data Definition Language]()
 
 ## [Repositories](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/service)
 
 ## [REST controllers and application logic services](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/controller)
 
-## [Javadoc documentation](https://github.com/budget-manager/budget-manager-server/tree/master/docs/javadocs)
+## [Javadoc documentation]()
 
 ## [Team roster](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
 
