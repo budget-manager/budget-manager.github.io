@@ -1,4 +1,4 @@
-## [Project description](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
+## Project description
 
 ## Team roster
 
@@ -105,7 +105,7 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 ## [Javadoc documentation](https://github.com/budget-manager/budget-manager-server/tree/master/docs/javadocs)
 
- 
+## License notice
 
 
 
