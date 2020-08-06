@@ -102,7 +102,7 @@ a new transaction.
 
 ### [Data Definition Language](docs/ddl.md)
 
-### Outline of technology stack
+### [Outline of technology stack](docs/technology-stack.md)
 
 ### [Javadoc documentation](https://github.com/budget-manager/budget-manager-server/tree/master/docs/javadocs)
 
