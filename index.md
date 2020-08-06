@@ -8,7 +8,7 @@
 * Jan Gevaert ([GitHub](https://github.com/jangevaert-design) & [LinkedIn](https://www.linkedin.com/in/jan-b-gevaert/) )
         -> got the security in on the client- and the server side; took care of the documentation.
 * Jeremy Brown ([GitHub](https://github.com/jeremybrown505) & [LinkedIn](https://www.linkedin.com/in/jeremy505/))
-        -> created and worked in detail on the user interfaces
+        -> created and worked in detail on the user interfaces, connected front end to server side.
 
 ### Project introduction & description
 
@@ -58,8 +58,12 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 ### Summary of current state of the project
 
 #### Description of the current state
+>the application is in a working state and interacts with the webservice side correctly. There are
+some unsolved issues in last minute changes that we have decided to leave out for now in order to 
+>present a functioning app.
 
 #### List of aesthetic improvements
+>We did not find the time anymore to work on the colors, the layout, the text size, the buttons etc.
 
 #### List of functional stretch goals
    * progress notifications
