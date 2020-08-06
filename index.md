@@ -1,17 +1,43 @@
 ## [Project description](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
 
+## Team roster
 
->Budget manager is a webservice accessed by a custom Android app that helps individuals manage and
-track their spending on a daily 
-or monthly basis. 
-Users will assign their expenditures in different categories (by assigning a name to each budget to 
+* Mercedes Garcia ([GitHub](https://github.com/Merced-es) & [LinkedIn](https://www.linkedin.com/in/mercedes-garcia-961403139/))
+        -> worked on the client side of the app, created the fragments and organized the navigation 
+           between them, fine-tuned the adapters and repositories
+* Jan Gevaert ([GitHub](https://github.com/jangevaert-design) & [LinkedIn](https://www.linkedin.com/in/jan-b-gevaert/) )
+        -> got the security in on the client- and the server side; took care of the documentation.
+* Jeremy Brown ([GitHub](https://github.com/jeremybrown505) & [LinkedIn](https://www.linkedin.com/in/jeremy505/))
+        -> created and worked in detail on the user interfaces
+
+
+### General overview and intended functionality
+
+>Budget Manager is a webservice accessed by a custom Android app that helps individuals manage and
+track their spending on a daily or monthly basis.
+> 
+>Users will assign their expenditures in different categories (by assigning a name to each budget to 
 create those different categories) for monthly bills and expenses such as
-gas, groceries, dining out, miscellaneous, personal spending, savings, and any other categories of 
+gas, groceries, dining out, miscellaneous, personal spending, savings, and any other category of 
 their choosing for any duration of time, recurring or not. 
-Personal savings goals can also be created to establish better spending habits.
+Personal saving goals can also be created to establish better spending habits.
 The user will enter all transactions on a daily basis. 
 The due dates and any extra notes can be created for each bill for organizational purposes. 
+>
+>Budget
+### Motivation for the development of this type of app
 
+>Since there is a need for many of us to be able to check, update and follow our spending habits, 
+>Budget Manager is the right app to assist you in this. This application, which you always have at 
+>hand is designed in a way to make your updates easy and gives you the chance to check your savings 
+>and budget goals on the go and in real time. 
+>Since all fields are easy to customize this app can be adapted to the wishes of each
+>user. Budget Manager has all the tools in house to make the user's life more comfortable and his 
+>expenses easier to control.
+
+### Key functional elements of the application
+>
+>
 >The webservice will support the functionalities of persistent storage, tracking of transactions 
 >versus budget and will take care of the automatic computation of transactions into budget.
 
@@ -24,7 +50,23 @@ screen. This screen will display buttons directing you to three different fields
 create his own budget. 
 If _transactions_ is selected the user will be prompted to enter either positive or negative 
 transactions to record their spending habits.
-When accessing _saving goals_ the user will have a detailed overview of his current progress.
+When accessing _saving goals_ the user will have a detailed overview of his current status and 
+>progress.
+
+
+## [Budget Manager PDF overview]()
+
+## Summary of current state of the project
+
+### Description of the current state
+
+### List of aesthetic improvements
+
+### List of functional stretch goals
+   * progress notifications
+   * banking API
+   * access to camera to track and store receipts 
+   * group based budgeting
 
 
 ## [Intended Users & user stories](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
@@ -51,30 +93,22 @@ When accessing _saving goals_ the user will have a detailed overview of his curr
 
 ## [Entity Relationship Diagram](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/entity-relationships.png)
 
-##[Wireframe](https://github.com/budget-manager/budget-manager.github.io/blob/master/docs/img/wireframe-budget-manager.png)
+## [Wireframe](budget-manager.github.io/docs/image/wireframe-budget-manager.png)
 
 ## [Entity classes](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/model/entity)
 
-## [Data Definition Language]()
+## [Data Definition Language](https://github.com/budget-manager/budget-manager-server/blob/master/docs/sql/ddl.sql)
 
 ## [Repositories](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/service)
 
 ## [REST controllers and application logic services](https://github.com/budget-manager/budget-manager-server/tree/master/src/main/java/edu/cnm/deepdive/budgetmanagerservice/controller)
 
-## [Javadoc documentation]()
+## [Javadoc documentation](https://github.com/budget-manager/budget-manager-server/tree/master/docs/javadocs)
 
-## [Team roster](https://github.com/budget-manager/budget-manager.github.io/blob/master/index.md)
+ 
 
-* Mercedes 
-* Jan
-* Jeremy
 
-## Stretch goals
 
-   * progress notifications
-   * banking API
-   * access to camera to track and store receipts 
-   * group based budgeting
    
    
 
